@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE metadata
+.idea/
+.vscode/
+
+# Local datasets and training artifacts
+gme_movie/data/
+gme_movie/data_with_hist/
+gme_movie/tmp/
+
